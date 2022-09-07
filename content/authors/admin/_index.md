@@ -7,11 +7,15 @@ social:
   - icon: researcherid
     icon_pack: ai
     link: https://researchmap.jp/HikaruIto
+    display:
+      header: true
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.jp/citations?hl=ja&user=TG7LJIsAAAAJ
+    display:
+      header: true
   - display:
-      header: false
+      header: true
     link: https://orcid.org/0000-0002-4693-2482
     icon_pack: ai
     icon: orcid
