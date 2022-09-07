@@ -16,7 +16,7 @@ social:
     icon_pack: ai
     icon: orcid
 organizations:
-  - name: 香川大学研究基盤センター動物実験施設
+  - name: 香川大学 研究基盤センター 動物実験施設
     url: https://www.kagawa-u.ac.jp/faculty/centers/rfcst/hp/
 superuser: true
 status:
