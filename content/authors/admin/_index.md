@@ -4,18 +4,20 @@ role: 香川大学医学部総合生命科学講座　准教授
 avatar_filename: 伊藤　日加瑠.tiff
 bio: 獣医師、博士（医学）
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: about/#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+  - icon: researcherid
+    icon_pack: ai
+    link: https://researchmap.jp/HikaruIto
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.jp/citations?hl=ja&user=TG7LJIsAAAAJ
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-4693-2482
+    icon_pack: ai
+    icon: orcid
 organizations:
-  - name: 腾讯
-    url: ""
+  - name: 香川大学
+    url: https://www.kagawa-u.ac.jp/faculty/centers/rfcst/hp/
 superuser: true
 status:
   icon: ☕️
