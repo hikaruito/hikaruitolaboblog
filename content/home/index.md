@@ -1,7 +1,7 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: 伊藤　日加瑠　研究室　Hikaru Ito's labo
+widget_id: Hero
 headless: true
+weight: 10
 ---
