@@ -5,7 +5,7 @@ summary: ミネソタ大学の朝倉淳先生にご来訪いただきました�
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
