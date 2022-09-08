@@ -17,6 +17,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: mc120013hp.jpg
 ---
 当研究室では、研究プロジェクトに参加する大学院生を募集しています。
 
