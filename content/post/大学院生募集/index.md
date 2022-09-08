@@ -8,7 +8,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: "Image credit:"
+  caption: ""
 ---
 当研究室では、研究プロジェクトに参加する大学院生を募集しています。
 
