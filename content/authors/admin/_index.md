@@ -1,6 +1,6 @@
 ---
 title: 伊藤日加瑠 研究室　Hikaru Ito's Labo
-role: 香川大学医学部総合生命科学講座　
+role: 香川大学 医学部総合生命科学講座　
 avatar_filename: ""
 bio: 獣医師、博士（医学）
 social:
