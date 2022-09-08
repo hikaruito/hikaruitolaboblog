@@ -17,3 +17,5 @@ widget_id: " RECENT-POSTS"
 [ORCID](https://orcid.org/0000-0002-4693-2482)
 
 日常業務としては香川大学動物実験施設の管理・運営を担っています。
+
+[アクセス](https://www.kagawa-u.ac.jp/access/miki_m/)：医学部キャンパス内動物実験施設（旧動物実験部門）
