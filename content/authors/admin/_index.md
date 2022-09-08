@@ -1,7 +1,7 @@
 ---
 title: 伊藤　日加瑠　Hikaru Ito
 role: 香川大学医学部総合生命科学講座　准教授
-avatar_filename: 伊藤　日加瑠.tiff
+avatar_filename: ""
 bio: 獣医師、博士（医学）
 social:
   - icon: researcherid
