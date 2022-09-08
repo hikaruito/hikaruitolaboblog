@@ -5,7 +5,7 @@ summary: 当研究室では、研究プロジェクトに参加する大学院�
 draft: false
 featured: false
 image:
-  filename: mc120013hp.tiff
+  filename: mc120013hp.png
   focal_point: Smart
   preview_only: false
   caption: "Image credit:"
