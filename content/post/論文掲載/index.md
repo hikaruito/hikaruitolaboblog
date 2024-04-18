@@ -1,6 +1,6 @@
 ---
 title: 論文掲載
-date: 2022-09-08T03:34:50.309Z
+date: 2024-02-08T03:34:50.309Z
 summary: 伊藤日加瑠が責任著者の論文が掲載されました。
 draft: false
 featured: false
