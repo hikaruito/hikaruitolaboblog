@@ -1,7 +1,7 @@
 ---
-title: 大学院生募集
+title: 論文掲載
 date: 2022-09-08T03:34:50.309Z
-summary: 当研究室では、研究プロジェクトに参加する大学院生を募集しています。
+summary: 論文掲載
 draft: false
 featured: false
 image:
@@ -10,6 +10,6 @@ image:
   preview_only: false
   caption: ""
 ---
-当研究室では、研究プロジェクトに参加する大学院生を募集しています。
+論文掲載されました。
 
-大学院入試情報は[こちら](https://www.kagawa-u.ac.jp/admission/transfer-graduate/graduate_school/)
+詳細は[こちら](https://www.kagawa-u.ac.jp/admission/transfer-graduate/graduate_school/)
