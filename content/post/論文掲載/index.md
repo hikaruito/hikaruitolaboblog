@@ -7,5 +7,6 @@ featured: false
 
 ---
 伊藤日加瑠が責任著者の論文が掲載されました。
+新たな周産期うつ病モデルマウスの作製方法を樹立しました。
 
 詳細は[こちら](https://www.sciencedirect.com/science/article/pii/S000689932300505X?via%3Dihub)
